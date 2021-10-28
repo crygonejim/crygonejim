@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @crygonejim
-- 👀 I’m interested in crypto, especially PoS
+- 👀 I’m interested in crypto, especially PoST
 - 🌱 I’m currently learning linux, ubuntu, multipass, VM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
